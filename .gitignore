@@ -1,5 +1,5 @@
 # Node modules
-/social-media-dashboard-backend/node_modules
+node_modules
 
 # Environment file
-/social-media-dashboard-backend/.env
+.env
